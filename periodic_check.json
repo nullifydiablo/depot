@@ -1,0 +1,6 @@
+{
+ "checkPeriodically": false,
+ "intervalInSeconds": 86400,
+ "nextCheckDueDate": "20240105T225134",
+ "downloadAutomatically": false
+}
