@@ -1,0 +1,22 @@
+{
+  "installer": {
+    "driverPackages": [
+      {
+        "packageName": "virtual_hid",
+        "drivers": [
+          {
+            "type": "INF",
+            "source": "{depot}/logi_joy_bus_enum.inf",
+            "version": "2018.3.55",
+            "hardwareId": "root\\LGHUBVirtualBus"
+          },
+          {
+            "type": "INF",
+            "source": "{depot}/logi_joy_vir_hid.inf",
+            "version": "2019.3.38699.0"
+          }
+        ]
+      }
+    ]
+  }
+}
